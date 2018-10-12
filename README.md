@@ -10,9 +10,30 @@
 
 Whatsapp status style Progress control
 
+
+## Demo
+
 ![logo](https://github.com/toseefkhilji/TKSegmentView/blob/master/Images/Screenshot.png?raw=true)
 
 
+## Usage
+
+## Customization
+
+
+## Installation
+
+#### CocoaPods
+
+
+#### Manually
+
+## TODO
+ - [ ]  Complete README
+ - [ ]  More Customization
+ - [ ]  Carthage Support
+ - [ ]  Unit Test
+ 
 License
 -------
 
